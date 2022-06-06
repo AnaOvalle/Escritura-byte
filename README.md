@@ -1,0 +1,2 @@
+# Escritura byte
+ byte
