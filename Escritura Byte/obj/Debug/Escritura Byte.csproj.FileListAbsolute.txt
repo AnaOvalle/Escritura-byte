@@ -1,0 +1,7 @@
+C:\Users\asfix\OneDrive\POO u5\Escritura-byte\Escritura Byte\obj\Debug\Escritura Byte.csproj.AssemblyReference.cache
+C:\Users\asfix\OneDrive\POO u5\Escritura-byte\Escritura Byte\obj\Debug\Escritura Byte.csproj.CoreCompileInputs.cache
+C:\Users\asfix\OneDrive\POO u5\Escritura-byte\Escritura Byte\bin\Debug\Escritura Byte.exe.config
+C:\Users\asfix\OneDrive\POO u5\Escritura-byte\Escritura Byte\bin\Debug\Escritura Byte.exe
+C:\Users\asfix\OneDrive\POO u5\Escritura-byte\Escritura Byte\bin\Debug\Escritura Byte.pdb
+C:\Users\asfix\OneDrive\POO u5\Escritura-byte\Escritura Byte\obj\Debug\Escritura Byte.exe
+C:\Users\asfix\OneDrive\POO u5\Escritura-byte\Escritura Byte\obj\Debug\Escritura Byte.pdb
